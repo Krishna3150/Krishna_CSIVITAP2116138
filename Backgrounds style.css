@@ -1,0 +1,59 @@
+@media (min-width:500px){
+   
+    body{
+        padding: 30px;
+        background-color: turquoise;
+        color:black;
+        font-size: 20px;
+        border-style: solid;
+        margin: 100px;
+        border-color: black;
+        outline-style: double;
+        outline: 50px blue;
+
+        
+    }
+    b{
+        color: blue;
+    }
+    div {
+        border: 4px solid black;
+       margin: 5px 5px 5px 5px;
+       background-color: goldenrod;
+     
+     }
+     
+     h1{
+         font-family: sans-serif;
+         color:turquoise;
+         border-style: double;
+         background-color:silver;
+         border-color: black;
+     }
+     b{
+         color: black;
+     }
+     h2{
+        
+        font-family: 'Times New Roman', Times, serif;
+        color:darkslategray;
+    }
+
+     h3{
+        
+         font-family: 'Times New Roman', Times, serif;
+         color:rgb(0, 0, 0);
+     }
+     
+     
+     p.double{border-style: dotted;
+     border-spacing: 20px;}
+     h1.solid{border-style: solid;
+     border-color: black;
+     background-color: rgb(149, 185, 231);
+     }
+     
+    
+     }
+     
+   
